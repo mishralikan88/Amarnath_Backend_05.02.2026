@@ -51,8 +51,7 @@ ADD (10+ years):
 ✔ Where business logic should NOT live
 ✔ Dependency inversion (without jargon)
 
-🎯 Outcome:
-“I follow controller–service–repository architecture.”
+🎯 Outcome: "I follow controller–service–repository architecture."
 
 # 🟢 PHASE 4 — DATABASE FUNDAMENTALS
 
@@ -67,7 +66,7 @@ Day 4 → Data modeling
 Day 5 → Connect DB to project
 
 🎯 Outcome:
-“I understand how and why data is stored.”
+"I understand how and why data is stored."
 
 # 🔵 PHASE 5 — MONGODB & MONGOOSE (DEEP)
 
